@@ -8,6 +8,7 @@ import java.net.URL;
 
 
 public class AndroidSetup {
+
     protected AndroidDriver driver;
 
     protected void prepareAndroidForAppium() throws MalformedURLException {
